@@ -8,7 +8,7 @@ public class main_driver {
     public static void main(String[] args) {
 
         // Report configuire
-        Report report1 = new Report("Normal", "Green", "Good");
+        Report report1 = new Report("Normal", "Green", "Good"); // Arrenged by (Category, Location, Status)
         Report report2 = new Report("Advanced", "Red", "Better");
 
         // Doctor configuire
